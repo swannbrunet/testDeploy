@@ -19,7 +19,7 @@
                     "databaseName": "testDB",
                     "right": "rw",
                     "prodDedicated": true,
-                    "reviewDedicated": true,
+                    "reviewDedicated": false,
                     "exportedEnvMapping": {
                         "uri": "ME_CONFIG_MONGODB_URL"
                     }
